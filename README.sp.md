@@ -32,8 +32,9 @@ Este repositorio forma parte del marco docente de estructura de datos y algoritm
 
 Los estudiantes editan esta sección para agregar sus nombres, correos electrónicos de Uniandes y especificar qué funcionalidad de proyecto implementarán.
 
-1. Estudent-1, Jacobo Zarruk,j.zarruk@uniandes.edu.co
-2. Estudent-2, María José Amorocho, m.amorocho@uniandes.edu.co
+1. Student No. 1 Name, Student No. 1 Uniandes Email, Student No. 1 owned functionality.
+1. Student No. 2 Name, Student No. 2 Uniandes Email, Student No. 2 owned functionality.
+1. Student No. 3 Name, Student No. 3 Uniandes Email, Student No. 3 owned functionality.
 
 
 [Volver al inicio](#sample-conflicts)
