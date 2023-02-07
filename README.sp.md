@@ -1,5 +1,5 @@
 <!-- SAMPLE CONFLICTS -->
-# Sample Conflicts
+# Sample Conflicts#
 <!-- PROJECT SHIELDS -->
 [![Contributors][sample-conflicts-contributors-shield]][sample-conflicts-contributors-url]
 [![Forks][sample-conflicts-forks-shield]][sample-conflicts-forks-url]
