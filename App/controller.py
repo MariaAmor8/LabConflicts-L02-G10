@@ -85,7 +85,6 @@ def loadBooksTags(control, filename):
     for booktag in input_file:
         model.addBookTag(catalog, booktag)
     return model.bookTagSize(catalog)
-    pass
 
 
 def firstBook(control):
