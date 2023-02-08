@@ -96,6 +96,8 @@ def lastBook(control):
     """
     Devuelve el último libro cargado
     """
+    last = controller.lastBook(control)
+    return last
     pass
 
 
@@ -123,7 +125,8 @@ if __name__ == "__main__":
             print("Primer libro cargado:\n" + str(first) + "\n")
 
             # TODO: Mods de Est-2 en el Lab 2
-            last = None
+            last = lastBook(control)
+            print("Último libro cargado:\n" + str(last) + "\n")
 
         elif int(inputs[0]) == 2:
             print("Cargando información de tags....")
